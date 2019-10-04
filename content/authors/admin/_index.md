@@ -24,7 +24,7 @@ interests:
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
-- Geospatial Processing
+     - Geospatial Processing
 
 education:
   courses:
