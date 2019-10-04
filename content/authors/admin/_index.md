@@ -52,7 +52,7 @@ social:
   icon_pack: fab
   link: https://github.com/kylezoa
 - icon: linkedin-in
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/kylehcheung/
 # - icon: google-scholar
 #  icon_pack: ai
@@ -73,4 +73,4 @@ email: ""
 # - Visitors
 ---
 
-Kyle Cheung is a graduate student in the Digital Agriculture Lab in the Department of Biological and Agricultural Engineering. He is motivated to bring the next generation of agricultural decision support using data-validated models aided through remote sensing and artificial intelligence.
+I am a graduate student in the Digital Agriculture Lab in the Department of Biological and Agricultural Engineering. My research motivation is to bring the next generation of agricultural decision support using data-validated models aided through remote sensing and artificial intelligence.
