@@ -51,8 +51,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/kylezoa
-- icon: linkedin
-  icon_pack: linkedin-in
+- icon: linkedin-in
+  icon_pack: fas
   link: https://www.linkedin.com/in/kylehcheung/
 # - icon: google-scholar
 #  icon_pack: ai
