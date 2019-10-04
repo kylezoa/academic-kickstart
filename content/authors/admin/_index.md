@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student<br/>University of California, Davis
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
