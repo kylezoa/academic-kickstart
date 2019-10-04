@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: Graduate Student<br/>University of California, Davis
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,9 @@ interests:
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision<br/>
-     - Geospatial Processing
+     - Geospatial Processing<br/>
+     - Image Processing
+     
 
 education:
   courses:
