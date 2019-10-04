@@ -14,7 +14,7 @@ role: Graduate Student<br/>University of California, Davis
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Davis
+- name: Digital Agriculture Lab, UC Davis
   url: "https://digitalag.ucdavis.edu"
 
 # Short bio (displayed in user profile at end of posts)
