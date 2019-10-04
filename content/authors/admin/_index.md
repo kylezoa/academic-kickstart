@@ -23,10 +23,13 @@ bio: Working on applying advanced remote sensing and AI to next generation of ag
 interests:
 - Artificial Intelligence
 - Machine Learning
-- Computer Vision<br/>
-     - Geospatial Processing<br/>
-     - Image Processing
-     
+- Remote Sensing<br/>
+    - Aerial Multispectral and Hyperspectral Imagery
+    - LiDAR
+- Computer Vision
+- Internet of Things
+- Geospatial Processing and Visualization
+ 
 
 education:
   courses:
