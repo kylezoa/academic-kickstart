@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   # certificate_url = "https://www.coursera.org"
   date_start = "2019-07-10"
   date_end = ""
-  description = "Placed in one of eight awards in a conference wide poster/oral presentation competition for my presentation titled, *Identification of Drought Stress in Turfgrass Using Multispectral and Hyperspectral Remote Sensing."
+  description = "Placed in one of eight awards in a conference wide poster/oral presentation competition for my presentation titled, *Identification of Drought Stress in Turfgrass Using Multispectral and Hyperspectral Remote Sensing.*"
 
 [[item]]
   organization = "Dept. of Biological and Agricultural Engineering, UC Davis"
