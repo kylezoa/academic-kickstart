@@ -50,7 +50,7 @@ social:
   link: 'mailto:kyhcheung@ucdavis.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/kylezoa
+  link: https://twitter.com/kylehcheung
 - icon: github
   icon_pack: fab
   link: https://github.com/kylezoa
@@ -76,4 +76,4 @@ email: ""
 # - Visitors
 ---
 
-I am a graduate student in the Digital Agriculture Lab in the Department of Biological and Agricultural Engineering. My research motivation is to bring the next generation of agricultural decision support using data-validated models aided through remote sensing and artificial intelligence.
+I am a graduate student in the Digital Agriculture Lab in the Department of Biological and Agricultural Engineering. My research motivation is to bring the next generation of agricultural decision support using data-validated models aided through remote sensing and artificial intelligence. Film photography is my creative outlet and road cycling slows down the pace of life.
