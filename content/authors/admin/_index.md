@@ -57,6 +57,10 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/kylehcheung/
+- icon: keybase
+  icon_pack: fab
+  link: https://keybase.io/kylezoa
+
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
