@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Virtual Orchard"
-summary: ""
+summary: "Photogrammetry canopy profile mapping technique"
 authors: []
 tags: []
 categories: []
@@ -27,6 +27,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- name: Lab Website
+  url: https://digitalag.ucdavis.edu/research/virtual-orchard
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -39,3 +43,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+My involvement on the project has just started, please refer to the [lab website](https://digitalag.ucdavis.edu/research/virtual-orchard).
