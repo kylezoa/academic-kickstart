@@ -45,12 +45,12 @@ slides: ""
 ---
 
 # Research goal
-Improve drought injury detection in turfgrass using aerial multispectral imagery
+* Improve drought injury detection in turfgrass using aerial multispectral imagery
 * Can multispectral cameras detect drought injury that can not be seen in the visible spectrum?
 * Can we detect drought injured turfgrass earlier before the effects are seen in the visible spectrum?
 
 # Personal involvement
-*	Develop pre-processing and machine learning pipeline for drought injury classification in turfgrass with multispectral images using Python and XGBoost
+* Develop pre-processing and machine learning pipeline for drought injury classification in turfgrass with multispectral images using Python and XGBoost
 * Compare multispectral classification performance with RGB images to understand detection performance gain using all spectral bands
 
 For a percent green calculator, I have written a [script](https://github.com/kylezoa/turf-percent-green) to process directories of lightbox images in Python for those who may not use ImageJ/Fiji regularly.
