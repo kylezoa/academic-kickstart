@@ -46,6 +46,7 @@ slides: ""
 
 # Personal involvement
 
+* Research prior rainout shelter designs for automated movement method
 * Design a tracked wheel assembly that prevents lift-up in windy conditions using Solidworks
 * Design a rack-and-pinion style, electric drivetrain to move rainout shelter up and down a slope with chain and wire cable
 * Program a Campbell Scientific datalogger (CR300) to trigger a subroutine in a separate, primary PLC during precipitation event
