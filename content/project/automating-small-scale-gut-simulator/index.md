@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Automating Small Scale Gut Simulator"
-summary: ""
+title: "Small-Scale Gut Simulator"
+summary: "Run multiple gastric experiments at a time, increasing experimental throughput."
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,16 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+# Research goal
+Increase throughput of gastric experiments through multiple, down-scaled gastric modules to enable greater repetitions of treatments.
+
+# Personal involvement
+* Program Arduino control of,
+  * motor operation
+  * temperature control
+  * pH monitoring
+  * safety watchdog
+* Integrate 2X16 LED screen, numeric touchpad, and emergency stop button for operator control of Arduino program
+* Wire all electrical components together
+* Coordinate with campus safety services to identify operational hazards and train operators to reduce risk during operation
