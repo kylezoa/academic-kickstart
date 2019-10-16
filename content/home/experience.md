@@ -26,10 +26,11 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  * Develop pre-processing and machine learning analysis pipeline for drought injury classification in turfgrass with multispectral images 
-  * Create an interactive, automated toolset to manage raster and vector manipulations using rasterio, geopandas, and Python
-  * Plan and conduct small, unmanned aerial vehicle flights for LiDAR data collection of orchards
-  * Write ArcGIS tutorials for lab use covering concepts in raster calculations, shapefile overlays, and georectification
+*	Develop pre-processing and machine learning pipeline for drought injury classification in turfgrass with multispectral images
+* Create an assisted, automated program to process aerial photogrammetry point cloud data for orchards, returning segmented tree shapes and geometry features
+*	Plan and conduct small unmanned aerial vehicle flights for LiDAR and hyperspectral image collection in orchards
+*	Write and present GIS tutorials for undergraduate students covering concepts in raster calculations, shape overlays, data management
+
   """
 
 [[experience]]
@@ -40,9 +41,9 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = ""
   description = """
-* Design electric drive train and carriage system for an unattended rainout shelter positioned on a slope
-* Automate a 16-rainout shelter array using primary/secondary programmable logic controller (PLC) network
-* Consult in the design of a wireless sensor network to collect field instrument data across hilly terrain
+*	Design a rack-and-pinion style, electric drive train and rail carriage system for an automated rainout shelter moving along a slope with Solidworks
+*	Plan and implement primary/secondary PLC network to control safe deployment of rainout shelters during precipitation event through analog signaling
+*	Consult in the survey and design of a wireless sensor network to collect field instrument data in hilly terrain using Campbell Scientific’s LOGGERNET
 """
 
 [[experience]]
