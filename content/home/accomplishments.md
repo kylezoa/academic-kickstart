@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   organization = "American Society of Agricultural and Biological Engineers, CA/NV Section"
   title = "2nd Place, Graduate Poster Award"
   date_start = "2019-02-01"
-  description = "Placed in one of three awards for my poster presentation titled, *Identification of Drought Stress in Turfgrass Using Hyperspectral and Multispectral Remote Sensing*"
+  description = "Placed in one of three awards for my poster presentation titled, *Identification of Drought Stress in Turfgrass Using Hyperspectral and Multispectral Remote Sensing*. [Poster (.pdf)](files/ASABE_sectional_poster.pdf)"
 #[[item]]
 #  organization = "DataCamp"
 #  organization_url = "https://www.datacamp.com"
